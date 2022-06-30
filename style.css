@@ -64,8 +64,27 @@
 }
 .projects{
     width: 100%;
-    height: 400px;
-    background-color: darkturquoise;
+    height: 600px;
+    padding: 3rem;
+    background-color: rgb(231 226 226);
+}
+.project-box{
+    padding: 3rem;
+    display: flex;
+    position: relative;
+    height: 15rem;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: linear-gradient(135deg,#7bbef5 50%,#eec9b1);
+}
+.project-wrapper{
+    margin-top: 5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(23rem,0fr));;
+    grid-gap: 4rem;
+}
+#projects{
+    
 }
 .skills{
     width: 100%;
