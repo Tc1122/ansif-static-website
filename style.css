@@ -177,7 +177,7 @@
 .skills{
     padding: 58px;
 }
-@media screen and (max-width 620px){
+@media screen and (max-width: 620px){
     .skills{
         padding: 25px;
     }
