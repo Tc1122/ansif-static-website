@@ -68,6 +68,11 @@
       margin-left: 6rem;   
  }
 }
+@media screen  and (max-width:620px){
+    .name h4,.name h1,.name h3,.name h2,.name h5,.check-resume{
+      margin-left: 6rem;   
+ }
+}
 .section-2-title{
     color: gray;
     font-weight: 600;
