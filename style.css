@@ -90,6 +90,7 @@
 @media screen  and (max-width:620px){
     #projects{
         padding: 25px;
+        margin-left:10px;
     }
 }
 .project-box{
@@ -180,6 +181,7 @@
 @media screen and (max-width: 620px){
     .skills{
         padding: 25px;
+        margin-left:10px;
     }
 }
 .section-3-title{
